@@ -1,8 +1,5 @@
 ### boas vindas ao meu perfil 💙💙 👋
 
-<!--
-**claraz3/claraz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 meu nome é Ana Clara
 
 -  Estou estudando na Alura ...
